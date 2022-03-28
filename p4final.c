@@ -37,6 +37,7 @@ int sum_composite_numbers(int n, int a[n])
       }
       return sum;
     }
+  }
   void output(int sum)
   {
     printf("%d\n",sum);

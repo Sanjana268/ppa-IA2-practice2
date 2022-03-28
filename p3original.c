@@ -30,6 +30,4 @@ int main()
 {
   int num = input_number();
   int res = is_composite(num);
-  output(num, res);
-  return 0;
-}
+  out
